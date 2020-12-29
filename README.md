@@ -3,7 +3,7 @@ Código feito para usuários de metasploit
 [Código concertado]
 #modo de ativar o script
 cd Atack-Msf2
-chmod +x Msf.py
-python3 Msf.py
+chmod +x msf.py
+python3 msf.py
 
 #divirta-se
