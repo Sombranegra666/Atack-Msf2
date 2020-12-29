@@ -1,6 +1,6 @@
 # Atack-Msf2
 Código feito para usuários de metasploit 
-# Código concertado
+[Código concertado]
 #modo de ativar o script
 cd Atack-Msf2
 chmod +x Msf.py
